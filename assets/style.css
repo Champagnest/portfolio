@@ -31,13 +31,13 @@ section{
  nav ul{
      display: flex;
  }
- /* nav ul li a{
+ nav ul li a{
      margin:30px;
-     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-     color; #505050;
-     font-size: 15px;
-     font-weight: 700;
- } */
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: #505050;
+     font-size:15px;
+     font-weight:700;
+ }
  .logo{
      font-family: RoadTest;
      color: rgb(73, 0, 209);
@@ -60,12 +60,12 @@ section{
      color:#1a1a1a;
      font-size: 60px;
  }
- /* .text-container p:nth-child(3){
-     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+ .text-container p:nth-child(3){
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      color: #403e3e;
      font-size:30px;
      line-height:30px;
- } */
+ }
  .text-container p{
      line-height: 0px;
      margin: 45px 0px 25px;
@@ -92,7 +92,7 @@ section{
  }
  .down-cv{
     background-color: #0b0b0b;
-    color: #FFFFFF;
+    color: cornsilk;
     border: none;
  }
  button:active{
@@ -106,10 +106,10 @@ section{
     transform:translateX(-70%);
  }
  .about-container{
-     width:80%
-     height:330px
-     background-color:#FFFFFF
-     border-radius:20px
+     width:80%;
+     height:330px;
+     background-color:cornsilk;
+     border-radius:20px;
      box-shadow:2px 2px 12px rgba(0,0,0,2)
      display: flex
      margin: -7% auto 20px auto
